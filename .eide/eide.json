@@ -62,6 +62,9 @@
                   },
                   {
                     "path": "../Core/Src/pid.cpp"
+                  },
+                  {
+                    "path": "../Core/Src/vofa.cpp"
                   }
                 ],
                 "folders": []
